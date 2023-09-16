@@ -32,7 +32,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahyun623&hide=TeX&layout=compact)
 
 
-
+📫 : dkmellow@naver.com  <br>
+📝 : https://endless-coding.tistory.com
 
 <!--
 **dahyun623/dahyun623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
