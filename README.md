@@ -1,4 +1,4 @@
-<div><h1>My Tech Stacks📚</h1></div>
+<div><h1>My Tech Stack📚</h1></div>
 
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
