@@ -1,4 +1,6 @@
-<div>Hi! I'm a junior backend developer specializing in Java 😎</div>
+<div>
+  <h1>Hi! I'm a junior backend developer specializing in Java 😎 </h1>
+</div>
 
 <div><h1>My Tech Stack📚</h1></div>
 
