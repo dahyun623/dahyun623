@@ -47,7 +47,7 @@
 
 
 📫 : dkmellow@naver.com  <br>
-📝 : https://endless-coding.tistory.com
+📝 : [Notion](https://s5hy25ni.notion.site/GDJ67-0eaa127c07cc4166bfb4aeefa73e44df)
 
 <!--
 **dahyun623/dahyun623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
