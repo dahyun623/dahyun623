@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi😎</h1>
+  <h1>Hi!😎</h1>
   <span>I'm a junior backend developer specializing in Java</span>
 </div>
 
