@@ -1,6 +1,6 @@
 <div>
   <h1>Hi!😎</h1>
-  <span>I'm a junior backend developer specializing in Java</span>
+  <span>I'm a junior developer specializing in Java</span>
 </div>
 
 <div><h1>My Tech Stack📚</h1></div>
